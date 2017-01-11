@@ -1,0 +1,17 @@
+{
+    "name": "agoalofalife/targetsms",
+    "version" : "1.0.0",
+    "authors": [
+        {
+            "name": "agoalofalife",
+            "email": "agoalofalife@gmail.com"
+        }
+    ],
+    "minimum-stability" : "dev",
+    "require": {},
+    "autoload" : {
+        "psr-4" : {
+            "agoalofalife\\targetsms\\" : ""
+        }
+    }
+}
