@@ -1,5 +1,5 @@
 
-![](https://3.downloader.disk.yandex.ru/disk/e3b1d96801018f8d01ae9330f441ff69756e088b0e381ddee147954e16640c78/5878a5c5/rWjvywuL93VvzaqBECRpgrTOzbi4rhhOay5zAz2NA9RXPjMw7UnoAMi7Ej77gFDnhwZga_8DJPVUo-KFQnIJ8w%3D%3D?uid=0&filename=sms_1000x500.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&fsize=58403&hid=b93cacb10a294b98bede6178698d2a31&media_type=image&tknv=v2&etag=1048e681aa19addcf597d27a3730f6e0)
+![](http://i12.pixs.ru/storage/6/3/8/smsjpg_6768148_24760638.jpg)
 
 ## **What it is?**
 
