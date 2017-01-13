@@ -1,5 +1,5 @@
 
-![](http://i12.pixs.ru/storage/6/3/8/smsjpg_6768148_24760638.jpg)
+![](http://i12.pixs.ru/storage/6/6/5/sms1000x50_1202954_24760665.jpg)
 
 ## **What it is?**
 
