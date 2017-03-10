@@ -118,7 +118,7 @@ class WrapperSendSms extends Wrapper implements ISendSms
      */
     private function isPhone($phone)
     {
-        return preg_match('/^7[0-9]{10}/', $phone);
+        return preg_match('/^7|8[0-9]{10}/', $phone);
     }
 
     /**
