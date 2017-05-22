@@ -9,6 +9,7 @@
 		"laravel"
 	],
 	"version": "0.1.0",
+	"minimum-stability": "stable",
 	"authors": [{
 		"name": "agoalofalife",
 		"email": "agoalofalife@gmail.com"
