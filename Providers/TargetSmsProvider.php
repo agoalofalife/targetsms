@@ -2,6 +2,9 @@
 
 namespace agoalofalife\targetsms\Providers;
 
+use agoalofalife\targetsms\Wrappers\WrapperBalance;
+use agoalofalife\targetsms\Wrappers\WrapperGetSmsStatus;
+use agoalofalife\targetsms\Wrappers\WrapperSendSms;
 use Illuminate\Support\ServiceProvider;
 
 class TargetSmsProvider extends ServiceProvider
@@ -25,6 +28,8 @@ class TargetSmsProvider extends ServiceProvider
      */
     public function register()
     {
-
+        $this->app->bind(WrapperSendSms::class, WrapperSendSms::class);
+        $this->app->bind(WrapperGetSmsStatus::class, WrapperGetSmsStatus::class);
+        $this->app->bind(WrapperBalance::class, WrapperBalance::class);
     }
 }
