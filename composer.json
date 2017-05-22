@@ -1,5 +1,13 @@
 {
     "name": "agoalofalife/targetsms",
+    "description": "This is wrapper https://targetsms.ru/",
+    "type": "no",
+    "license": "MIT",
+    "keywords": [
+        "smse",
+        "targetsms",
+        "laravel",
+    ],
     "version" : "0.1.0",
     "authors": [
         {
