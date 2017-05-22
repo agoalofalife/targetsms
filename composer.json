@@ -1,24 +1,22 @@
 {
-    "name": "agoalofalife/targetsms",
-    "description": "This is wrapper https://targetsms.ru/",
-    "type": "no",
-    "license": "MIT",
-    "keywords": [
-        "smse",
-        "targetsms",
-        "laravel",
-    ],
-    "version" : "0.1.0",
-    "authors": [
-        {
-            "name": "agoalofalife",
-            "email": "agoalofalife@gmail.com"
-        }
-    ],
-    "require": {},
-    "autoload" : {
-        "psr-4" : {
-            "agoalofalife\\targetsms\\" : ""
-        }
-    }
+	"name": "agoalofalife/targetsms",
+	"description": "This is wrapper https://targetsms.ru/",
+	"type": "no",
+	"license": "MIT",
+	"keywords": [
+		"smse",
+		"targetsms",
+		"laravel"
+	],
+	"version": "0.1.0",
+	"authors": [{
+		"name": "agoalofalife",
+		"email": "agoalofalife@gmail.com"
+	}],
+	"require": {},
+	"autoload": {
+		"psr-4": {
+			"agoalofalife\\targetsms\\": ""
+		}
+	}
 }
