@@ -18,5 +18,12 @@
 		"psr-4": {
 			"agoalofalife\\targetsms\\": ""
 		}
+	},
+	"extra": {
+		"laravel": {
+			"providers": [
+				"agoalofalife\\targetsms\\Providers\\TargetSmsProvider"
+			]
+		}
 	}
 }
