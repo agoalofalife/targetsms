@@ -1,7 +1,7 @@
 {
 	"name": "agoalofalife/targetsms",
 	"description": "This is wrapper https://targetsms.ru/",
-	"type": "project",
+	"type": "library",
 	"license": "MIT",
 	"keywords": [
 		"sms",
@@ -9,7 +9,7 @@
 		"laravel"
 	],
 	
-	"minimum-stability": "stable",
+	"minimum-stability": "dev",
 	"authors": [{
 		"name": "agoalofalife",
 		"email": "agoalofalife@gmail.com"
