@@ -2,7 +2,7 @@
 //example of sending through the wrapper
 $foo = new agoalofalife\targetsms\Wrappers\WrapperSendSms();
 
-$responce = $foo->sendSMS([
+$response = $foo->sendSMS([
     'messages' => 'Hello!!',
     [
         'phone'          => '79999999999',
@@ -17,4 +17,4 @@ $responce = $foo->sendSMS([
 
     ]
 ]);
-dd($responce);
+dd($response);
