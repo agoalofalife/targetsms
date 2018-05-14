@@ -14,7 +14,7 @@ class WrapperBalance extends Wrapper implements IGetBalance
         if (!$state->send()) {
             echo $state->getError();
         } else {
-            print_r($state->getResponse());
+            return $state->getResponse();
         }
     }
 }
