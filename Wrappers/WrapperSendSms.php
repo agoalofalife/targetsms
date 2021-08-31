@@ -22,7 +22,15 @@ class WrapperSendSms extends Wrapper implements ISendSms
         parent::__construct();
         $this->senderName      = config('targetSMS.sender');
     }
-
+    
+    /**
+     * @param string $senderName
+     */
+    public function setSenderName($senderName)
+    {
+        $this->senderName = $senderName;
+    }
+    
     /**
      * Отправка смс
      * @param array $dataArray
