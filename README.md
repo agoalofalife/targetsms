@@ -1,5 +1,7 @@
 
-![](http://i12.pixs.ru/storage/6/6/5/sms1000x50_1202954_24760665.jpg)
+
+### Unfortunatly, current version incompatible with current version targetsms. 
+### Some time ago, they updated api, but if this package did popular I will update it.
 
 ## **What it is?**
 
