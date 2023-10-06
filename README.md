@@ -14,6 +14,13 @@ It is used in the environment **[Laravel](https://laravel.com/)**
 
 ### **How to start using?**
 
+
+First of all, you have to install this package
+
+```shell
+composer require agoalofalife/targetsms
+```
+
 You must add the service provider in file **config/app.php**
 
 
